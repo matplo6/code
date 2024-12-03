@@ -4,6 +4,6 @@
 }
 
 iframe{
-    width: 100vh;
+    width: calc(100vh * 2);
     height: 100vh;
 }
