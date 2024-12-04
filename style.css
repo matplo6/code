@@ -7,3 +7,8 @@ iframe{
     width: calc(100vh * 2);
     height: 100vh;
 }
+
+.container-div {
+    animation: alternate-reverse 500 step-start 10 500 center green;
+    animation-duration: 500;
+}
